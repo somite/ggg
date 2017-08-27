@@ -81,6 +81,15 @@ class mainpage(object):
 
             tree.insert('', index, values=i)
             index += 1
+            
+           index=0
+           
+        for i in list:
+
+            tree.insert('', index, values=i)
+            index += 1
+    
+            
 
 #运行程序，启动事件循环     
 
